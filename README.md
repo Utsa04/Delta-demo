@@ -1,2 +1,2 @@
 # Delta-demo
-this ademo for git and github
+this ademo for git and github class.
